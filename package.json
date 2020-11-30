@@ -9,7 +9,7 @@
     "start:delivery": "nodemon src/delivery-sub.js",
     "start:notification": "nodemon src/notification-sub.js"
   },
-  "author": "Nkere-Awaji Inwan (enkay) <enkaypeter@gmail.com)",
+  "author": "Abhi",
   "license": "MIT",
   "dependencies": {
     "@google-cloud/pubsub": "^2.6.0",
